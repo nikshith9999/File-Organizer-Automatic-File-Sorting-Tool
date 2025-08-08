@@ -1,0 +1,9 @@
+# Python package requirements for File Organizer GUI
+# Install them using: pip install -r requirements.txt
+
+# tkinter is part of the Python standard library (no installation needed)
+# Listed here just for reference
+tkinter
+
+# To create executable files from Python scripts
+pyinstaller

@@ -14,6 +14,18 @@ It automatically organizes files into folders based on their **file extensions**
 
 ---
 
+Upon running the File Organizer, your files will be sorted into folders based on the **year** they were last modified.  
+
+![Year Folder Example](Img1.png)
+
+---
+
+Inside each year folder, you'll find **sub-folders** named after the file extensions found within that year.  
+
+![Extension Folder Example](Img2.png)
+
+---
+
 ## 🛠 How to Run
 
 ### 1️⃣ Run from Python

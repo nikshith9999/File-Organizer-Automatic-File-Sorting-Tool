@@ -65,5 +65,11 @@ project/
 This project is licensed under the **MIT License**.
 
 ---
+## 👨‍💻 Author
+
+**Nikshith Burla**  
+GitHub: [@nikshith9999](https://github.com/nikshith9999)
+
+---
 
 💡 *Happy Organizing!* 🎯
